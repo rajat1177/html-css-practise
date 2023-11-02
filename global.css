@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jomhuria: Jomhuria;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #e11c1c;
+  --color-lime: #00ff38;
+  --color-gray: #9a9292;
+  --color-black: #000;
+  --color-snow: #fffcfc;
+  --color-paleturquoise: rgba(172, 255, 255, 0.26);
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-10xl: 29px;
+}

@@ -1,0 +1,521 @@
+.background-icon,
+.nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background-icon {
+  width: 1581px;
+  height: 928px;
+  object-fit: cover;
+}
+.nav {
+  background-color: rgba(182, 172, 172, 0.2);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1581.3px;
+  height: 99px;
+}
+.alert-icon,
+.calender-icon,
+.news-icon,
+.prescription-icon {
+  position: absolute;
+  top: 35px;
+  left: 1003.1px;
+  width: 14.8px;
+  height: 24px;
+  overflow: hidden;
+}
+.alert-icon,
+.calender-icon,
+.news-icon {
+  top: 38px;
+  left: 901.8px;
+  width: 19.8px;
+}
+.calender-icon,
+.news-icon {
+  top: 35px;
+  left: 800.5px;
+}
+.calender-icon {
+  left: 642.4px;
+}
+.alert,
+.appointments,
+.logout,
+.news,
+.patient-name,
+.prescription {
+  position: absolute;
+  top: 35px;
+  left: 112px;
+  display: inline-block;
+  width: 215px;
+}
+.alert,
+.appointments,
+.logout,
+.news,
+.prescription {
+  top: 32px;
+  left: 614.4px;
+}
+.alert,
+.logout,
+.news,
+.prescription {
+  left: 741.2px;
+}
+.alert,
+.logout,
+.prescription {
+  top: 35px;
+  left: 841px;
+}
+.logout,
+.prescription {
+  top: 33px;
+  left: 973px;
+}
+.logout {
+  top: 36px;
+  left: 1377px;
+}
+.logout-btn-icon,
+.msg-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.msg-icon {
+  height: 17.68%;
+  width: 1.1%;
+  top: 43.74%;
+  right: 80.73%;
+  bottom: 38.59%;
+  left: 18.17%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.logout-btn-icon {
+  top: 39px;
+  left: 1433.9px;
+  width: 19.8px;
+  height: 24px;
+}
+.navbar,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1592px;
+  height: 99px;
+}
+.vector-icon {
+  height: 2.18%;
+  width: 1.06%;
+  top: 4.04%;
+  right: 58.12%;
+  bottom: 93.78%;
+  left: 40.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.big-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-paleturquoise);
+  box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 589px;
+  height: 305px;
+}
+.pill3-icon,
+.prescription2 {
+  position: absolute;
+  left: 192px;
+}
+.prescription2 {
+  top: 14px;
+  display: inline-block;
+  width: 261px;
+}
+.pill3-icon {
+  top: 20px;
+  width: 40px;
+  height: 41px;
+  overflow: hidden;
+}
+.small-box,
+.small-box1 {
+  position: absolute;
+  top: 85px;
+  left: 29px;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-snow);
+  width: 524px;
+  height: 84px;
+}
+.small-box {
+  top: 190px;
+}
+.mg,
+.mg1,
+.vitamin-c,
+.vitamin-k {
+  position: absolute;
+  top: 96px;
+  left: 89px;
+  display: inline-block;
+  width: 261px;
+}
+.mg,
+.mg1,
+.vitamin-k {
+  top: 201px;
+}
+.mg,
+.mg1 {
+  top: 132px;
+  left: 109px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray);
+  width: 166px;
+  height: 69px;
+}
+.mg1 {
+  top: 238px;
+  left: 110px;
+}
+.pill1-icon,
+.pill2-icon {
+  position: absolute;
+  top: 85px;
+  left: 77px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.pill1-icon {
+  top: 187px;
+  left: 71px;
+}
+.big-box1,
+.prescription1 {
+  position: absolute;
+  width: 589px;
+}
+.prescription1 {
+  top: 152px;
+  left: 777px;
+  height: 307px;
+  font-size: var(--font-size-31xl);
+}
+.big-box1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-paleturquoise);
+  box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  height: 367px;
+}
+.renew-your-medical {
+  position: absolute;
+  top: 278px;
+  left: 64px;
+  display: inline-block;
+  width: 463px;
+}
+.alert1-icon,
+.alert2 {
+  position: absolute;
+  top: 34px;
+}
+.alert2 {
+  left: 170px;
+  font-size: var(--font-size-31xl);
+  text-align: center;
+  display: inline-block;
+  width: 261px;
+}
+.alert1-icon {
+  left: 215px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.days-left-in,
+.dr-varshavski-canceled,
+.dr-walter-accepted {
+  position: absolute;
+  top: 111px;
+  left: 60px;
+  display: inline-block;
+  width: 463px;
+}
+.days-left-in,
+.dr-walter-accepted {
+  top: 167px;
+  left: 66px;
+}
+.days-left-in {
+  top: 222px;
+  left: 60px;
+}
+.alert-child,
+.alert-inner,
+.alert-item,
+.line-div {
+  position: absolute;
+  top: 152px;
+  left: 31.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 517px;
+  height: 1px;
+}
+.alert-inner,
+.alert-item,
+.line-div {
+  top: 206.5px;
+}
+.alert-inner,
+.line-div {
+  top: 269.5px;
+}
+.line-div {
+  top: 333.5px;
+  left: 33.5px;
+}
+.alert1 {
+  position: absolute;
+  top: 490px;
+  left: 777px;
+  width: 589px;
+  height: 367px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+}
+.outer-box {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-paleturquoise);
+  box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 566px;
+  height: 736px;
+}
+.inner-box,
+.inner-box1,
+.inner-box2,
+.inner-box3 {
+  position: absolute;
+  top: 116px;
+  left: 23px;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-snow);
+  width: 520px;
+  height: 139px;
+}
+.inner-box1,
+.inner-box2,
+.inner-box3 {
+  top: 275px;
+  background-color: var(--color-white);
+}
+.inner-box2,
+.inner-box3 {
+  top: 434px;
+}
+.inner-box3 {
+  top: 593px;
+}
+.appointments1 {
+  position: absolute;
+  top: 27px;
+  left: 182px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 261px;
+}
+.calender-icon1 {
+  position: absolute;
+  top: 30px;
+  left: 160px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.dr-img-icon,
+.dr-img-icon1,
+.dr-img-icon2,
+.dr-img-icon3 {
+  position: absolute;
+  top: 139px;
+  left: 58px;
+  border-radius: var(--br-81xl);
+  width: 97px;
+  height: 92px;
+  object-fit: cover;
+}
+.dr-img-icon1,
+.dr-img-icon2,
+.dr-img-icon3 {
+  top: 299px;
+}
+.dr-img-icon2,
+.dr-img-icon3 {
+  top: 458px;
+}
+.dr-img-icon3 {
+  top: 617px;
+}
+.dr-drake,
+.dr-richard,
+.dr-varshavski,
+.dr-walter-white {
+  position: absolute;
+  top: 149px;
+  left: 124px;
+  display: inline-block;
+  width: 261px;
+}
+.dr-drake,
+.dr-richard,
+.dr-walter-white {
+  top: 309px;
+  left: 106px;
+}
+.dr-richard,
+.dr-walter-white {
+  top: 468px;
+  left: 115px;
+}
+.dr-walter-white {
+  top: 627px;
+  left: 139px;
+}
+.dermatologist,
+.pediatrician,
+.psychiatrist {
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray);
+  width: 166px;
+  height: 69px;
+}
+.dermatologist {
+  position: absolute;
+  top: 171px;
+  left: 164px;
+  display: inline-block;
+}
+.pediatrician,
+.psychiatrist {
+  left: 156px;
+}
+.pediatrician {
+  position: absolute;
+  top: 331px;
+  display: inline-block;
+}
+.psychiatrist {
+  top: 490px;
+}
+.accept,
+.decline,
+.pediatrician1,
+.psychiatrist {
+  position: absolute;
+  display: inline-block;
+}
+.pediatrician1 {
+  top: 649px;
+  left: 161px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray);
+  width: 166px;
+  height: 69px;
+}
+.accept,
+.decline {
+  top: 144px;
+  left: 308px;
+  color: var(--color-lime);
+  width: 261px;
+}
+.decline {
+  top: 180px;
+  color: var(--color-red);
+}
+.accept1,
+.accept2,
+.accept3,
+.decline1,
+.decline2,
+.decline3 {
+  position: absolute;
+  top: 309px;
+  left: 305px;
+  color: var(--color-lime);
+  display: inline-block;
+  width: 261px;
+}
+.accept2,
+.accept3,
+.decline1,
+.decline2,
+.decline3 {
+  top: 345px;
+  color: var(--color-red);
+}
+.accept2,
+.accept3,
+.decline2,
+.decline3 {
+  top: 468px;
+  color: var(--color-lime);
+}
+.accept3,
+.decline2,
+.decline3 {
+  top: 504px;
+  color: var(--color-red);
+}
+.accept3,
+.decline3 {
+  top: 626px;
+  color: var(--color-lime);
+}
+.decline3 {
+  top: 662px;
+  color: var(--color-red);
+}
+.appointment-child {
+  position: absolute;
+  top: 0;
+  left: 413px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.appointment {
+  position: absolute;
+  top: 124px;
+  left: 138px;
+  width: 569px;
+  height: 752px;
+}
+.main-body {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 916px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-jomhuria);
+}
